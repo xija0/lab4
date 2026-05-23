@@ -1,22 +1,24 @@
 Ссылки можно вставить так \<ссылка\>, например: http://google.com
 
-Мой [репозиторий](http://google.com). Для клонирования репозитория нужно выполнить команду `git clone`
+Мой [репозиторий](https://github.com/xija0/lab4). Для клонирования репозитория нужно выполнить команду `git clone`
 
 
 | ФИО | Группа | Аудитория |
 | :--- | :--- | :--- |
-| Винокуров Сандал Николаевич | ИВТ-16 | 432 |
+| Павлов Леонид Дмитриевич | ИВТ-24-1 | 432 |
 | [Иванов Иван Иванович](http://google.com) | **отчислен из-за пропусков** | 430 |
 
 ```cpp
 #include <iostream>
 
 int main(int argc, char *argv[]) {
-    std::cout << "Hello, Vinokurov Sandal Nikolaevich!" << std::endl;
+    std::cout << "Hello, Pavlov Leonid Dmitrievich!" << std::endl;
     
     return 0;
 }
 ```
 
-![Google](https://google.com)
+![Google](https://wikimedia.org)
+
+
 
